@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+This project is live at: https://pjpras.github.io/tic-tac-toe/
+
 ## Available Scripts
 
 In the project directory, you can run:
